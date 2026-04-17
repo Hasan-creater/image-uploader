@@ -1,0 +1,4 @@
+//for ignoring node modules
+node_modules/
+//for ignoring uploaded files
+uploads/
